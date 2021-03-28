@@ -11,6 +11,8 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [x] User can load a specific article in a WebView within the app
+* [x] Onboarding screen only appears for first visit, status stored in AsyncStorage
+* [x] Multi-screen navigation using StackNavigator
 
 ## Video Walkthrough
 
