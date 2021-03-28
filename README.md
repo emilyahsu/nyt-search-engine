@@ -16,4 +16,6 @@ The following **extensions** are implemented:
 
 ## Video Walkthrough
 
+Here's a walkthrough of implemented user stories:
+
 <img src="assets/walkthrough.gif" width="400">
