@@ -1,5 +1,5 @@
 # NYT Search Engine
-**NYT Search Engine** displays a list of search results from the New York Times API and displays the news articles within the app.
+**NYT Search Engine** displays a list of search results from the New York Times API and links to the news articles.
 
 ## Functionality
 
