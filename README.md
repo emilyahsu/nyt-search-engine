@@ -14,3 +14,4 @@ The following **extensions** are implemented:
 
 ## Video Walkthrough
 
+<img src="assets/walkthrough.gif" width="400">
